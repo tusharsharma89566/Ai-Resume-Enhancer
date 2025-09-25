@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Enhancer",
+  "description": "An intelligent resume builder that helps you create ATS-friendly resumes. Paste your CV, get an ATS score, and use AI prompts to automatically enhance and tailor your resume for any job.",
+  "requestFramePermissions": []
+}
